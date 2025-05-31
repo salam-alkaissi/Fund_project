@@ -1,4 +1,4 @@
-# IEEE-CIS Fraud Detection Kaggle Challenge
+## IEEE-CIS Fraud Detection Kaggle Challenge
 
 ## Overview
 This repository contains the code and documentation for our submission to the [IEEE-CIS Fraud Detection Kaggle competition](https://www.kaggle.com/competitions/ieee-fraud-detection). The goal of the project was to develop a predictive model to identify fraudulent credit card transactions using a large dataset provided by IEEE-CIS. Our approach leverages advanced feature engineering, data preprocessing, and machine learning models to achieve robust fraud detection with a focus on balancing precision and recall.
